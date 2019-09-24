@@ -2,11 +2,18 @@ class List
 
   def self.index(fruits)
 
-  fruits = Array.new(4,"Apple", "Mango", "Bananas", "Oranges")
-  #list.index("Apple")
+  fruits = ["Apple", "Mango", "Bananas", "Oranges"]
+  fruits.each_with_index do |fruit,index|
 
-  fruits.each { |x| puts x }
-
+    puts index
   end
 
   end
+
+
+  end
+
+fruits = List.index(fruits)
+
+
+

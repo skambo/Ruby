@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="873e8970-86bc-45cd-9dfd-60f0bc819dfa" name="Default Changelist" comment="" />
+    <list default="true" id="873e8970-86bc-45cd-9dfd-60f0bc819dfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array-practice/product.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops-practice/gets.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops-practice/gets_practice.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops-practice/online_loop_questions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-practice/estates.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/estates.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-practice/list.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/list.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-practice/list_index.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/list_index.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-practice/split.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/split.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R90UHhxPOLVXBJsdCxr6UMXq28" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/loops-practice" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -25,11 +46,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.split">
-    <configuration name="estates" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.gets_practice">
+    <configuration name="gets" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/array-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -40,14 +61,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/array-practice/estates.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/gets.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="estates_tests" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="gets_practice" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/array-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -58,14 +79,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/array-practice/estates_tests.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/gets_practice.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_index" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="loop1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/array-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -76,14 +97,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/array-practice/list_index.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/loop1.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="split" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="loops" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/array-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/luhn" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -94,21 +115,17 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/array-practice/split.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/loops.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestListIndex" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
+    <configuration name="online_loop_questions" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
-      <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
@@ -116,24 +133,17 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/array-practice/list_index_test.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/online_loop_questions.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.split" />
-        <item itemvalue="Ruby.estates_tests" />
-        <item itemvalue="Ruby.estates" />
-        <item itemvalue="Test::Unit/Shoulda/Minitest.TestListIndex" />
-        <item itemvalue="Ruby.list_index" />
+        <item itemvalue="Ruby.gets_practice" />
+        <item itemvalue="Ruby.gets" />
+        <item itemvalue="Ruby.online_loop_questions" />
+        <item itemvalue="Ruby.loop1" />
+        <item itemvalue="Ruby.loops" />
       </list>
     </recent_temporary>
   </component>
@@ -148,12 +158,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569064018437</updated>
-      <workItem from="1569064019509" duration="62293000" />
+      <workItem from="1569064019509" duration="89356000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -179,37 +200,45 @@
     <SUITE FILE_PATH="coverage/ruby@test_city_is_5.rcov" NAME="test_city_is_5 Coverage Results" MODIFIED="1569157972312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_basic.rcov" NAME="test_basic Coverage Results" MODIFIED="1569072112794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@gigasecond.rcov" NAME="gigasecond Coverage Results" MODIFIED="1569146063900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gigasecond" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@list.rcov" NAME="list Coverage Results" MODIFIED="1569231547309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@list.rcov" NAME="list Coverage Results" MODIFIED="1569258690939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@HammingTest.rcov" NAME="HammingTest Coverage Results" MODIFIED="1569089854756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@scrabble_score.rcov" NAME="scrabble_score Coverage Results" MODIFIED="1569094630699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrabble-score" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@loops.rcov" NAME="loops Coverage Results" MODIFIED="1569329769637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luhn" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@gets_practice.rcov" NAME="gets_practice Coverage Results" MODIFIED="1569360800016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_simple_slice_that_blow___.rcov" NAME="test_simple_slice_that_blow... Coverage Results" MODIFIED="1569085331998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@two_fer_test.rcov" NAME="two_fer_test Coverage Results" MODIFIED="1569065343395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@hamming.rcov" NAME="hamming Coverage Results" MODIFIED="1569089687302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hamming" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@BeerSongTest.rcov" NAME="BeerSongTest Coverage Results" MODIFIED="1569143578252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@product.rcov" NAME="product Coverage Results" MODIFIED="1569270063969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_no_name_given.rcov" NAME="test_no_name_given Coverage Results" MODIFIED="1569065285591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@TestPlanets.rcov" NAME="TestPlanets Coverage Results" MODIFIED="1569178948034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_more_complicated_slice___.rcov" NAME="test_more_complicated_slice... Coverage Results" MODIFIED="1569085382423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@FizzbuzzTest.rcov" NAME="FizzbuzzTest Coverage Results" MODIFIED="1569147771287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@random.rcov" NAME="random Coverage Results" MODIFIED="1569275734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@difference_of_squares.rcov" NAME="difference_of_squares Coverage Results" MODIFIED="1569139593965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/difference-of-squares" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_brown_and_black.rcov" NAME="test_brown_and_black Coverage Results" MODIFIED="1569069499057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@weather.rcov" NAME="weather Coverage Results" MODIFIED="1569157790024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuestionTime!" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_punctuation_without_wh___.rcov" NAME="test_punctuation_without_wh... Coverage Results" MODIFIED="1569072101397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@series.rcov" NAME="series Coverage Results" MODIFIED="1569085323836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/series" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ResistorColorTest.rcov" NAME="ResistorColorTest Coverage Results" MODIFIED="1569144710970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@loop1.rcov" NAME="loop1 Coverage Results" MODIFIED="1569336402861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_currency_is_unknown.rcov" NAME="test_currency_is_unknown Coverage Results" MODIFIED="1569149894866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@fizzbuzz.rcov" NAME="fizzbuzz Coverage Results" MODIFIED="1569147590574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fizzbars" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@list_index.rcov" NAME="list_index Coverage Results" MODIFIED="1569234164465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@gets.rcov" NAME="gets Coverage Results" MODIFIED="1569358665677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@strings.rcov" NAME="strings Coverage Results" MODIFIED="1569276203527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@list_index.rcov" NAME="list_index Coverage Results" MODIFIED="1569256548438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@matrix.rcov" NAME="matrix Coverage Results" MODIFIED="1569077736893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matrix" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ScrabbleTest.rcov" NAME="ScrabbleTest Coverage Results" MODIFIED="1569094748749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@MatrixTest.rcov" NAME="MatrixTest Coverage Results" MODIFIED="1569076759477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@scores.rcov" NAME="scores Coverage Results" MODIFIED="1569215729806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuestionTime!" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@estates_tests.rcov" NAME="estates_tests Coverage Results" MODIFIED="1569234687475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@estates_tests.rcov" NAME="estates_tests Coverage Results" MODIFIED="1569255462781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_extract_a_column.rcov" NAME="test_extract_a_column Coverage Results" MODIFIED="1569076739803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@WeatherTest.rcov" NAME="WeatherTest Coverage Results" MODIFIED="1569158327966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@resistor_color_duo.rcov" NAME="resistor_color_duo Coverage Results" MODIFIED="1569070167619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resistor-color-duo" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@CurrencyCoverterTest.rcov" NAME="CurrencyCoverterTest Coverage Results" MODIFIED="1569156548630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_type_of_name.rcov" NAME="test_type_of_name Coverage Results" MODIFIED="1569065657725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@resistor_color.rcov" NAME="resistor_color Coverage Results" MODIFIED="1569144699547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resistor-color" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@online_loop_questions.rcov" NAME="online_loop_questions Coverage Results" MODIFIED="1569339354841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@TestShopping.rcov" NAME="TestShopping Coverage Results" MODIFIED="1569182972861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_score_is_blank.rcov" NAME="test_score_is_blank Coverage Results" MODIFIED="1569185517905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@beer_song.rcov" NAME="beer_song Coverage Results" MODIFIED="1569143429542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beer-song" MODULE_NAME="ruby" />
@@ -227,14 +256,14 @@
     <SUITE FILE_PATH="coverage/ruby@test_apple_is_printed.rcov" NAME="test_apple_is_printed Coverage Results" MODIFIED="1569226308478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@PangramTest.rcov" NAME="PangramTest Coverage Results" MODIFIED="1569141136949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_orange_and_orange.rcov" NAME="test_orange_and_orange Coverage Results" MODIFIED="1569069516469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@TestListIndex.rcov" NAME="TestListIndex Coverage Results" MODIFIED="1569234168736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@TestListIndex.rcov" NAME="TestListIndex Coverage Results" MODIFIED="1569254644625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@planets.rcov" NAME="planets Coverage Results" MODIFIED="1569178899053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuestionTime!" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@estates.rcov" NAME="estates Coverage Results" MODIFIED="1569234286390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@estates.rcov" NAME="estates Coverage Results" MODIFIED="1569255454524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@GigasecondTest.rcov" NAME="GigasecondTest Coverage Results" MODIFIED="1569146078213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@RaindropsTest.rcov" NAME="RaindropsTest Coverage Results" MODIFIED="1569091690409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_highest_score.rcov" NAME="test_highest_score Coverage Results" MODIFIED="1569185484613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@acronym.rcov" NAME="acronym Coverage Results" MODIFIED="1569072366813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/acronym" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@split.rcov" NAME="split Coverage Results" MODIFIED="1569244915538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@split.rcov" NAME="split Coverage Results" MODIFIED="1569258756373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_index_zero_is_apple.rcov" NAME="test_index_zero_is_apple Coverage Results" MODIFIED="1569227352129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@IsogramTest.rcov" NAME="IsogramTest Coverage Results" MODIFIED="1569092815254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@WordCountTest.rcov" NAME="WordCountTest Coverage Results" MODIFIED="1569087755761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
