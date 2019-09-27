@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="873e8970-86bc-45cd-9dfd-60f0bc819dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array-practice/product.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops-practice/gets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops-practice/gets_practice.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops-practice/online_loop_questions.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boolean-practice/boolean.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boolean-practice/boolean_practice.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions_practice.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-practice/hash.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-practice/hash_practice.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-practice/estates.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/estates.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-practice/list.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/list.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-practice/list_index.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/list_index.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-practice/split.rb" beforeDir="false" afterPath="$PROJECT_DIR$/array-practice/split.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +43,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.gets_practice">
-    <configuration name="gets" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.hash_practice">
+    <configuration name="functions" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/functions" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -61,14 +58,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/gets.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/functions/functions.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="gets_practice" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="functions_practice" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/functions" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -79,14 +76,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/gets_practice.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/functions/functions_practice.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="hash" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/hash-practice" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -97,14 +94,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/loop1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/hash-practice/hash.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="loops" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="hash_practice" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/luhn" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/hash-practice" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -115,14 +112,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/loops.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/hash-practice/hash_practice.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="online_loop_questions" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="toptal" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/loops-practice" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Toptal" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -133,17 +130,17 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/loops-practice/online_loop_questions.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Toptal/toptal.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.gets_practice" />
-        <item itemvalue="Ruby.gets" />
-        <item itemvalue="Ruby.online_loop_questions" />
-        <item itemvalue="Ruby.loop1" />
-        <item itemvalue="Ruby.loops" />
+        <item itemvalue="Ruby.hash_practice" />
+        <item itemvalue="Ruby.hash" />
+        <item itemvalue="Ruby.toptal" />
+        <item itemvalue="Ruby.functions_practice" />
+        <item itemvalue="Ruby.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569064018437</updated>
-      <workItem from="1569064019509" duration="89356000" />
+      <workItem from="1569064019509" duration="104979000" />
     </task>
     <servers />
   </component>
@@ -192,6 +189,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ruby@TestList.rcov" NAME="TestList Coverage Results" MODIFIED="1569231912401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@toptal.rcov" NAME="toptal Coverage Results" MODIFIED="1569522458172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toptal" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ResistorColorDuoTest.rcov" NAME="ResistorColorDuoTest Coverage Results" MODIFIED="1569070175574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@DifferenceOfSquaresTest.rcov" NAME="DifferenceOfSquaresTest Coverage Results" MODIFIED="1569139612892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_blue_and_grey.rcov" NAME="test_blue_and_grey Coverage Results" MODIFIED="1569069480319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
@@ -201,6 +199,7 @@
     <SUITE FILE_PATH="coverage/ruby@test_basic.rcov" NAME="test_basic Coverage Results" MODIFIED="1569072112794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@gigasecond.rcov" NAME="gigasecond Coverage Results" MODIFIED="1569146063900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gigasecond" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@list.rcov" NAME="list Coverage Results" MODIFIED="1569258690939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@functions.rcov" NAME="functions Coverage Results" MODIFIED="1569438817786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@HammingTest.rcov" NAME="HammingTest Coverage Results" MODIFIED="1569089854756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@scrabble_score.rcov" NAME="scrabble_score Coverage Results" MODIFIED="1569094630699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrabble-score" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@loops.rcov" NAME="loops Coverage Results" MODIFIED="1569329769637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luhn" MODULE_NAME="ruby" />
@@ -217,13 +216,17 @@
     <SUITE FILE_PATH="coverage/ruby@random.rcov" NAME="random Coverage Results" MODIFIED="1569275734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@difference_of_squares.rcov" NAME="difference_of_squares Coverage Results" MODIFIED="1569139593965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/difference-of-squares" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_brown_and_black.rcov" NAME="test_brown_and_black Coverage Results" MODIFIED="1569069499057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@boolean_practice.rcov" NAME="boolean_practice Coverage Results" MODIFIED="1569409759243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boolean-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@weather.rcov" NAME="weather Coverage Results" MODIFIED="1569157790024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QuestionTime!" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_punctuation_without_wh___.rcov" NAME="test_punctuation_without_wh... Coverage Results" MODIFIED="1569072101397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@series.rcov" NAME="series Coverage Results" MODIFIED="1569085323836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/series" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ResistorColorTest.rcov" NAME="ResistorColorTest Coverage Results" MODIFIED="1569144710970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@loop1.rcov" NAME="loop1 Coverage Results" MODIFIED="1569336402861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@hash.rcov" NAME="hash Coverage Results" MODIFIED="1569564039581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_currency_is_unknown.rcov" NAME="test_currency_is_unknown Coverage Results" MODIFIED="1569149894866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@fizzbuzz.rcov" NAME="fizzbuzz Coverage Results" MODIFIED="1569147590574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fizzbars" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@functions_practice.rcov" NAME="functions_practice Coverage Results" MODIFIED="1569521639686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@hash_practice.rcov" NAME="hash_practice Coverage Results" MODIFIED="1569566407072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@gets.rcov" NAME="gets Coverage Results" MODIFIED="1569358665677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@strings.rcov" NAME="strings Coverage Results" MODIFIED="1569276203527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@list_index.rcov" NAME="list_index Coverage Results" MODIFIED="1569256548438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array-practice" MODULE_NAME="ruby" />
@@ -244,6 +247,7 @@
     <SUITE FILE_PATH="coverage/ruby@beer_song.rcov" NAME="beer_song Coverage Results" MODIFIED="1569143429542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beer-song" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@pangram.rcov" NAME="pangram Coverage Results" MODIFIED="1569140984218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pangram" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@raindrops.rcov" NAME="raindrops Coverage Results" MODIFIED="1569091549057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/raindrops" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@boolean.rcov" NAME="boolean Coverage Results" MODIFIED="1569406058240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boolean-practice" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@HighScoresTest.rcov" NAME="HighScoresTest Coverage Results" MODIFIED="1569184844224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@test_very_long_abbreviation.rcov" NAME="test_very_long_abbreviation Coverage Results" MODIFIED="1569072063101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@high_scores_test.rcov" NAME="high_scores_test Coverage Results" MODIFIED="1569074261328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
